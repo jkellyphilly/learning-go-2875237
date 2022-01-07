@@ -38,3 +38,5 @@ Build into an executable file (the compiled version)
 ### Variables/types
 `var` is **required** for defining variables outside of functions. 
 - Within functions, though, we can use the `:=` operator. 
+
+**Characters are wrapped in single quotes**, while strings are wrapped in double quotes. 
